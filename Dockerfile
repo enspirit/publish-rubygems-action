@@ -1,4 +1,4 @@
-FROM ruby:3
+FROM ruby:3.1
 
 LABEL "name"="Publish to Rubygems"
 LABEL "version"="1.1.0"
